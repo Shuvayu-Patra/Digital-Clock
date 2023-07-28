@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@font-face {
+  src : url(digital-7.ttf);
+  font-family: digital;
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.heading {
+  margin : 0 auto !important;
+}
+
+.clock {
+  font-family: 'Lobster', cursive;
+}
+
+.time {
+  font-family: digital;
+}
+
+.second {
+  color : red;
+}
+
+.am {
+  font-family: Arial, Helvetica, sans-serif;
+}
